@@ -60,8 +60,8 @@ I am a creative developer who loves building polished user interfaces. Currently
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrnabildev&theme=react-dark" alt="mrnabildev Activity Graph" />
-    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sijan666&theme=radical" alt="GitHub Profile Summary" /> -->
+    <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrnabildev&theme=react-dark" alt="mrnabildev Activity Graph" /> -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrnabildev&theme=radical" alt="GitHub Profile Summary" />
   </a>
 </div>
 
