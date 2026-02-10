@@ -41,9 +41,9 @@ I am a creative developer who loves building polished user interfaces. Currently
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrnabildev&layout=compact&theme=tokyonight" height="170" align="center" />
 </p>
 
-<div align="center">
-  <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=mrnabildev&theme=tokyonight&hide_border=false" />
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrnabildev&theme=tokyonight" width="60%" />
+</p> 
 
 ---
 
